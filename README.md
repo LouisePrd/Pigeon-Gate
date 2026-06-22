@@ -2,6 +2,8 @@
 An unique Pigeon experience using Flask and JavaScript.<br>
 Coded by Anna Maria, Louise and Angèle.<br>
 [Early-week-report.pdf](https://github.com/user-attachments/files/16067971/MVP.pdf)
+[Canva presentation](https://canva.link/i4cps3frgqv9xg4)
+
 
 ## BIRTH OF THE PROJECT
 Pigeon Gate is the result of Anna Maria's over-active imagination. Following Louise's unhealthy obsession with pigeons, she imagined a site where Louise could express her hyper-fixation without shame If you're wondering what Angèle has to do with it, she's decided to join Anna Maria and Louise's team to add her flavour to their somewhat... unusual idea.
